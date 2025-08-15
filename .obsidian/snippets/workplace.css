@@ -1,0 +1,14 @@
+/* hide vault selection panel */
+.workspace-sidedock-vault-profile {
+  display: none !important;
+}
+
+
+/* hide panel icons */
+.sidebar-toggle-button.mod-right {
+  display: none !important;
+}
+
+.sidebar-toggle-button.mod-left {
+  display: none !important;
+}

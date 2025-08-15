@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "4148b977eddcd176",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ffa975b95d37c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a5f74701bdd3ff6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d009d1bfab259048",
+    "type": "split",
+    "children": [
+      {
+        "id": "97c8e6ce766c0a3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e55871b2e9469802",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.0026054382324
+  },
+  "right": {
+    "id": "17a60cda3996b7cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4cebd02500f344",
+        "type": "tabs",
+        "dimension": 44.62242562929062,
+        "children": [
+          {
+            "id": "ee82bdee01021c01",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "66cda1ac352c4f29",
+        "type": "tabs",
+        "dimension": 55.37757437070938,
+        "children": [
+          {
+            "id": "3cd694d0e8154e9a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Вставить шаблон": false,
+      "graph:Граф": false,
+      "omnisearch:Omnisearch": false,
+      "canvas:Создать новый холст": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:Открыть палитру команд": true,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "9a5f74701bdd3ff6",
+  "lastOpenFiles": [
+    "Daily/2025/Август/12-08-25.md",
+    "Daily/2025/Август/08-08-25.md",
+    "Daily/2025/Август/11-08-25.md",
+    "Daily/2025/Август/10-08-25.md",
+    "Tracker/Сколько времени я прожил.md",
+    "Tracker/Заметки без ссылок.md",
+    "Tracker/Последние измененные заметки.md",
+    "Programming/C and C++/Указатели.md",
+    "Tracker/Не созданные заметки.md",
+    "Tracker/Новые заметки.md",
+    "README.md",
+    "Programming/Algorithms/Алгоритмы.md",
+    "Programming/Algorithms/Хеш-таблицы.md",
+    "Daily/2025/Август/09-08-25.md",
+    "Daily/2025/Август/02-08-25.md",
+    "Templates/planner.md",
+    "Templates/reference.md",
+    "Templates/course.md",
+    "Templates/daily.md",
+    "Templates/book.md",
+    "Templates",
+    "templates/reference.md",
+    "templates/planner.md",
+    "templates/daily.md",
+    "templates/course.md",
+    "templates/book.md",
+    "templates",
+    "Tracker/Text Document.md",
+    "Tracker/Text Document.txt",
+    "Tracker",
+    "Images/photo-08-08-25.jpg",
+    "Images/photo-05-07-25.jpg",
+    "Text Document.mp4",
+    "Text Document.mp3",
+    "Text Document.txt",
+    "Новая папка",
+    "Programming/Algorithms/Грокаем-Алгоритмы.pdf",
+    "Programming/DevOps/Kubernetes",
+    "Images/photo2-14-07-25.jpg",
+    "Images/photo-14-07-25.jpg",
+    "Images/photo-13-07-25.jpg",
+    "Без названия.canvas"
+  ]
+}

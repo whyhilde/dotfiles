@@ -1,0 +1,23 @@
+{
+  "cssTheme": "Catppuccin",
+  "accentColor": "#1e1e2e",
+  "theme": "obsidian",
+  "baseFontSize": 20,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "showRibbon": false,
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "long-file-name",
+    "sdjhv",
+    "disable-arrows",
+    "new-tab",
+    "tabs",
+    "explorer",
+    "dashboard",
+    "editor",
+    "workplace"
+  ],
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSizeAction": true
+}

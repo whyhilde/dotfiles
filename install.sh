@@ -7,6 +7,7 @@ packages=(
   "obs-studio"
   "neovim"
   "kitty"
+  "obsidian"
   "git"
   "zsh"
   "zsh-autosuggestions"
@@ -24,6 +25,7 @@ packages=(
   "btop"
   "cava"
   "opendoas"
+  "neofetch"
 )
 
 # zsh: sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
